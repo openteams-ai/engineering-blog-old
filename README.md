@@ -1,5 +1,8 @@
 # Engineering Blog
 
+> [!IMPORTANT]
+> **This repository is retired.** The blog now lives in [openteams-ai/engineering-blog](https://github.com/openteams-ai/engineering-blog). Open new posts there.
+
 Source repository for engineering blog posts published on [openteams.com/engineering-blog](https://openteams.com/engineering-blog/).
 
 ## Overview
